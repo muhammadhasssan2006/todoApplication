@@ -56,13 +56,12 @@ form{
     right: 0.5%;
     padding: 10px;
     border: none;
-    /* background: none; */
     background-color: #00FFC4;
     width: 100px;
     border-radius: 1000px;
     font: inherit;
     font-weight: 600;
-    color: #101114
+    color: #101114;
     cursor: pointer;
 }
 .todo{
